@@ -5,7 +5,8 @@ Automatic creation of image-slideshow video with voiceover from an input prompt 
 Open-source, strictly intended for research purposes only
 
 ## Getting started is simple
-Download videoAutoGen.py, install dependencies (see below), create constants.py to hold OpenAI and ElevenLabs API keys, and run via command line
+Download videoAutoGen.py, install dependencies (see below), create constants.py to hold OpenAI and ElevenLabs API keys, and run via command line.
+The program pauses after each step to allow users to terminate the program via command line. This is to be extended in the future to take in user feedback to refine step-wise output.
 
 ### Tech stack
 - GPT3.5 via OpenAI (key required)
