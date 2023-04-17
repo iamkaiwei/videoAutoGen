@@ -5,9 +5,10 @@ Automatic creation of image-slideshow video with voiceover from an input prompt 
 Open-source, strictly intended for research purposes only
 
 ## Example of output
-[![Final video given input prompt about the new posh Italian restaurant in town]
-(https://img.youtube.com/vi/Utf1hNoGO9w/maxresdefault.jpg)]
-(https://www.youtube.com/shorts/Utf1hNoGO9w)
+
+<div align="center">
+  <a href="https://www.youtube.com/shorts/Utf1hNoGO9w"><img src="https://img.youtube.com/vi/Utf1hNoGO9w/maxresdefault.jpg" alt="Final video given input prompt about the new posh Italian restaurant in town"></a>
+</div>
 
 ## Example of terminal output (no audio, screencast)
 
