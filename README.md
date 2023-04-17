@@ -4,6 +4,11 @@ Automatic creation of image-slideshow video with voiceover from an input prompt 
 ## Licenses
 Open-source, strictly intended for research purposes only
 
+## Example of output
+https://user-images.githubusercontent.com/874824/232397952-b2920cea-698d-4787-b5a1-6be4fad57ade.mp4
+
+## Example of terminal output (no audio, screencast at x1.5 speed)
+
 ## Getting started is simple
 Download videoAutoGen.py, install dependencies (see below), create constants.py to hold OpenAI and ElevenLabs API keys, and run via command line.
 The program pauses after each step to allow users to terminate the program via command line. This is to be extended in the future to take in user feedback to refine step-wise output.
