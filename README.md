@@ -5,12 +5,11 @@ Automatic creation of image-slideshow video with voiceover from an input prompt 
 Open-source, strictly intended for research purposes only
 
 ## Example of output
-If the video doesn't load, you can try downloading it to view (0.6mb).
-
-https://user-images.githubusercontent.com/874824/232397952-b2920cea-698d-4787-b5a1-6be4fad57ade.mp4
+[![Final video given input prompt about the new posh Italian restaurant in town]
+(https://img.youtube.com/vi/Utf1hNoGO9w/maxresdefault.jpg)]
+(https://www.youtube.com/shorts/Utf1hNoGO9w)
 
 ## Example of terminal output (no audio, screencast)
-If the video doesn't load, you can try downloading it to view (6.5mb).
 
 https://user-images.githubusercontent.com/874824/232400973-91a1846f-0ff6-4adb-99bd-2344a9153f5a.mp4
 
